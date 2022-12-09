@@ -3,7 +3,7 @@
 <div align="center">
 
 <h2>
-A B.E. Mechatronics, Robotics and Automation Engineer, who is passionate about the .NET and C# development. 
+A Mechatronics, Robotics and Automation Engineer, who is passionate about the .NET and C# development. 
 </h2>
 
 
